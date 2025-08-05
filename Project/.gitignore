@@ -1,0 +1,65 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Database files
+*.mdf
+*.ldf
+*.sdf
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# Cache files
+*.cache
+
+# Backup files
+*.bak
+*.backup
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*~
+
+# Application specific
+App_Data/*.mdf
+App_Data/*.ldf
